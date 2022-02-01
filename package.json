@@ -1,0 +1,19 @@
+{
+  "name": "cocacola-project",
+  "version": "1.0.0",
+  "description": "'primer proyecto con cocacola'",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanParraIV/CocaCola-project.git"
+  },
+  "author": "\u001b[A\u001b[B\u001b[BJuan Mario Parra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanParraIV/CocaCola-project/issues"
+  },
+  "homepage": "https://github.com/JuanParraIV/CocaCola-project#readme"
+}
